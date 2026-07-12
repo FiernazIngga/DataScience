@@ -17,7 +17,6 @@ Repository ini berisi catatan, latihan, dan implementasi berbagai algoritma Data
 ## 📂 Struktur Folder
 ```text
 Project/
-├── Datasets/
 ├── Supervised/
 ├── Unsupervised/
 ├── Notes/
