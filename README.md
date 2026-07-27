@@ -6,6 +6,7 @@ Repository ini berisi catatan, latihan, dan implementasi berbagai algoritma Data
 ### Machine Learning
 #### Supervised Learning
 #### Unsupervised Learning
+#### DeepLearning for Beginners
 
 ## 🛠️ Tech Stack
 - Python
@@ -13,10 +14,12 @@ Repository ini berisi catatan, latihan, dan implementasi berbagai algoritma Data
 - Pandas
 - Matplotlib
 - Scikit-learn
+- Tensorflow
 
 ## 📂 Struktur Folder
 ```text
 Project/
+├── DeepLearning/
 ├── Supervised/
 ├── Unsupervised/
 ├── Notes/
